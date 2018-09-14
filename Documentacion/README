@@ -1,0 +1,29 @@
+# ReportApp
+
+- Reto:  Transporte y seguridad
+- Localidad :  Engativa
+- Url: https://github.com/PrototiposBogota/ReportApp
+
+
+### Participantes
+- Oscar Espinel (@0sc4r3sp1n3l)
+
+
+### Descripción
+Este proyecto se realiza para reportar los robos de vehiculos de transporte publico como carros, motos y bicicletas, esta aplicación permite
+subir fotos de los vehiculos, reportar los robos a las redes sociales, verificar dichos reportes.
+
+
+### Funciones Básicas
+
+- Permite logearse por medio de facebook o por correo electronico de registro.
+
+- Permite ejecutar un boton de panico para avisar a las autoridades que se estan robando un vehiculo.
+
+- Permite administrar los datos de su perfil, incluyendo una fotografia de la pérsona.
+
+- Permite administrar los vehiculos que tenga la persona.
+
+- Permite realizar un reporte detallado del robo del vehiculo.
+
+- Permite verificar los reportes realizados.
