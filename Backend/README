@@ -15,3 +15,5 @@ Contraseña: Fede123
 
 Se puede ejecutar el projecto que se encuentra en la carpeta ReportApp, se descarga el projecto o se clona en visual studio code
 y se ejecuta con el comando desde git bush: run serve
+
+### Tener instalado cordova, ionic, nodejs
